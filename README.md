@@ -1,13 +1,17 @@
 # I-LMS (Intelligent Learning Management System)
-Project dicscreption
-Designed a ReactJS application which has to display programs registred by student and courses content with timeline which can display some information of student grade, status, etc.
+We are designing and developing an “Intelligent learning management system” website. We have different pages for mentors and students. 
+As if the mentor will be redirected to the respective course page when they click on the mentor. And the student should be able to view the course page directly on login separated by sections. 
+Where we have to display the currently ongoing section(Ongoing programs) and the past programs(Completed programs) in another section. The ongoing programs should be on the top of the page.
+We have displayed the courses using the cards with a program title, and a dynamic timeline for the courses. We have separated the IT and Soft Skills course using the APIs. IT courses on the left side and Soft Skills courses on the right of the page. The upcoming courses should be visible at the bottom of the page. 
+We have separated the courses according to semester-wise. Whereas the completed course remains a blue shade, and the current course will be in the normal shade. We also redirected the logo of MSIT to the home page.
+When a student completes a course it should fade out its color. Also when a student hovers on any course card, it should display details like course status, percentage, and grade. When a student/mentor clicks on the start course button it should redirect to the respective course module page.
+Users are able to see the course description on page load, able to see the latest module on the top(reverse chronological), and able to see the number of weeks on the left side of the page for quick access. 
 
 ## Technologies used:
 ReactJs, Postman, Bootstrap
 
 ## Sprint1:
-Design a layout for program managment screens using justinmind application. learned Justinmind app usage to create a layout.
-
+Designed a sprint work plan using the Justinmind application and understood the scrum process. Understood the issues in the ILMS and in the project management knowing about the UX design and starting implementing it. Learned Justinmind tool, scrum process
 <img src="src/images/prototype.png">
 
 ## Sprint2:
