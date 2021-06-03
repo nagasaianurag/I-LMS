@@ -1,4 +1,22 @@
-# Getting Started with Create React App
+# I-LMS (Intelligent Learning Management System)
+Project dicscreption
+Designed a ReactJS application which has to display programs registred by student and courses content with timeline which can display some information of student grade, status, etc.
+
+## Technologies used:
+ReactJs, Postman, Bootstrap
+
+## Sprint1:
+Design a layout for program managment screens using justinmind application. learned Justinmind app usage to create a layout.
+## Sprint2:
+Designed Program page which can display program details using API`s and display them in cards dynamically.
+## Sprint3:
+Designed Course page with 3 sections (Onging, Semister, Upcoming) to differentiate easly by student.
+## Sprint4:
+Designed cards UI to display name, picture, Timeline and devoloped the visually.
+## Sprint5:
+## Sprint6:
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
