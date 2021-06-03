@@ -1,0 +1,164 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.ongoing{
+  margin-top:10px;
+  font-size:2rem;
+  font-weight:bold;
+}
+.presentationCard{
+  /* background-color:darkslateblue; */
+  min-width: 100% !important ;
+
+  /* color:white; */
+} 
+.procard{
+  background-color:darkslateblue;
+  min-width:28rem  !important ;
+  color:white;
+}
+h3 {
+  display: flex;
+  flex-direction: row;
+}
+h3:after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 2px solid #000;
+  margin: auto;
+}
+.proname{
+  font-weight:bold;
+  text-align:center;
+}
+.wrapper {
+  margin: 2rem;
+  display: grid;
+  gap: 1rem;
+  grid-template-columns: 1fr;
+  justify-content: center;
+}
+@media screen and (min-width: 768px) {
+  .procard {
+    min-width: 15rem;
+    
+  }
+}
+@media screen and (min-width: 1000px) {
+  .procard {
+    min-width: 20rem;
+    
+  }
+}
+@media screen and (min-width: 1375px) {
+  .procard {
+    min-width: 28rem;
+    
+  }
+}
+.Navdrop{
+  background-color:white;
+border-radius: 8px;
+}
+.img{
+width:50px;
+}
+.semcard{
+  background-color:crimson;
+  height: 2rem;
+  color:white;
+}
+.presentationcard{
+  background-color:#FFC300;
+  /* height: 2rem; */
+  color:white;
+}
+.presentationname{
+  font-weight:bold;
+  /* padding-top: 3px; */
+  text-align:center;
+}
+.semname{
+  font-weight:bold;
+  padding-top: 3px;
+  text-align:center;
+}
+
+/* .row{
+
+ float:left;        
+ width:25%;
+ height:280px;
+
+} */
+/* .float-container {
+  border: 3px solid #fff;
+  padding: 20px;
+} */
+
+.float-child-time {
+  width: 10%;
+  float: left;
+  /* height: 70px; */
+  /* padding: 0px; */
+  /* border: 2px solid red; */
+} 
+.float-child {
+  margin: 20px;
+  width: 40%;
+  float: left;
+  
+  /* padding: 0px; */
+  /* border: 2px solid red; */
+} 
+.float-child-ss {
+  margin: 20px;
+  width: 40%;
+  float: right;
+  /* padding: 0px; */
+  /* border: 2px solid red; */
+} 
+.dot{
+  /* height: 20px;
+  width: 20px; */
+  /* border-radius: 50%; */
+  font-size:11px;
+  text-align: center;
+  /* text-anchor: middle; */
+  
+}
