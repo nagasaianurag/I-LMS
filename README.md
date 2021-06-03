@@ -7,7 +7,8 @@ ReactJs, Postman, Bootstrap
 
 ## Sprint1:
 Design a layout for program managment screens using justinmind application. learned Justinmind app usage to create a layout.
-<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg"/>
+
+<img src="https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg">
 ## Sprint2:
 Designed Program page which can display program details using API`s and display them in cards dynamically.
 ## Sprint3:
