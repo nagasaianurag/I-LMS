@@ -8,14 +8,16 @@ When a student completes a course it should fade out its color. Also when a stud
 Users are able to see the course description on page load, able to see the latest module on the top(reverse chronological), and able to see the number of weeks on the left side of the page for quick access. 
 
 ## Technologies used:
-ReactJs, Postman, Bootstrap
+ReactJs, Postman, Bootstrap.
 
 ## Sprint1:
-Designed a sprint work plan using the Justinmind application and understood the scrum process. Understood the issues in the ILMS and in the project management knowing about the UX design and starting implementing it. Learned Justinmind tool, scrum process
+Designed a sprint work plan using the Justinmind application and understood the scrum process. Understood the issues in the ILMS and in the project management knowing about the UX design and starting implementing it. Learned Justinmind tool, scrum process.
 <img src="src/images/prototype.png">
 
 ## Sprint2:
 Designed Program page which can display program details using API`s and display them in cards dynamically.
+<img src="src/images/course.PNG">
+
 ## Sprint3:
 Designed Course page with 3 sections (Onging, Semister, Upcoming) to differentiate easly by student.
 ## Sprint4:
