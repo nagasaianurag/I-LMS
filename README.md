@@ -16,7 +16,7 @@ Designed a sprint work plan using the Justinmind application and understood the 
 
 ## Sprint2:
 Designed Program page which can display program details using API`s and display them in cards dynamically.
-<img src="src/images/course.PNG">
+<img src="src/images/program.PNG">
 
 ## Sprint3:
 Designed Course page with 3 sections (Onging, Semister, Upcoming) to differentiate easly by student.
