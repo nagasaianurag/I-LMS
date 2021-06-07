@@ -1,16 +1,4 @@
-// const presentation=programdata.map(item =>{
-//     console.log(item.endDate)
-//     console.log(this.state.currentDate)
 
-//     if(item.courseName=='Presentations'){
-//       return(
-//       <Col xs={{ span: 12 }} sm={{ span: 12 }} md={{ span: 4 }}>
-//           <Presentations key={item._id} name={item.courseName}  url={item.url} onClick={this.Click} />
-//       </Col>
-//       )
-//     } 
-//   }
-//   )
 import React from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Sem from './sem1.js';

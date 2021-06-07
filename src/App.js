@@ -10,6 +10,7 @@ import Second from "./second";
 import Time from "./time";
 import ShowcaseCardDemo from "./cardtest";
 import StepperDemo from "./stepper";
+import Trycard from "./cardtry";
 function App(){
 
   return(
@@ -17,6 +18,7 @@ function App(){
       <Router>
        
   <Switch>
+    
   <Route exact path='/'component={Home}/>
     <Route path="/course" component={Course}/>
     <Route path="/second" component={Second}/>
@@ -24,11 +26,13 @@ function App(){
     <Route path="/time" component={Time}/>
     <Route path="/cardtest" component={ShowcaseCardDemo}/>
     <Route path="/stepper" component={StepperDemo}/>
+    <Route path="/cardtry" component={Trycard}/>
     {/* <Route>
   {mentor ? <Redirect to="/" /> : <Course />}
 </Route> */}
   </Switch>
 </Router>
+{/* this has all the routings requires */}
   </div>
   )
 }

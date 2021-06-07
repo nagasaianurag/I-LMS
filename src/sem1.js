@@ -47,9 +47,9 @@ class Sem extends React.Component{
       console.log(item.endDate)
       console.log(this.state.currentDate)
       // console.log(this.state.currentDate.getMonth())
-      if(item.courseType=="IT"){
+      if(item.courseType=="IT" && item.startDate<this.state.currentDate){
      return(
-<ShowcaseCardDemo key={item._id} name={item.courseName}  date={item.startDate} image={item.image} url={item.url} onClick={this.Click} />
+<ShowcaseCardDemo key={item._id} name={item.courseName} edate={item.endDate} date={item.startDate} image={item.image} url={item.url} onClick={this.Click} />
      )
                 
                     
@@ -62,9 +62,9 @@ class Sem extends React.Component{
       console.log(item.endDate)
       console.log(this.state.currentDate)
 
-      if( item.semester=="2" || item.courseName=="Listening Speaking Reading Writing skills Development"){
+      if( item.startDate<this.state.currentDate && item.semester=="2" || item.courseName=="Listening Speaking Reading Writing skills Development"){
   return(
-<ShowcaseCardDemo key={item._id} name={item.courseName}  date={item.startDate} image={item.image} url={item.url} onClick={this.Click} />
+<ShowcaseCardDemo key={item._id} name={item.courseName} edate={item.endDate} date={item.startDate} image={item.image} url={item.url} onClick={this.Click} />
   )
                
                     

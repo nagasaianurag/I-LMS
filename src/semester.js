@@ -49,7 +49,7 @@ class Semester extends React.Component{
       // console.log(this.state.currentDate.getMonth())
       if(item.startDate<this.state.currentDate &&  item.courseType=="IT"){
      return(
-<ShowcaseCardDemo key={item._id} name={item.courseName}  date={item.startDate} image={item.image} url={item.url} onClick={this.Click} />
+<ShowcaseCardDemo key={item._id} name={item.courseName} edate={item.endDate} date={item.startDate} image={item.image} url={item.url} onClick={this.Click} />
      )
                 
                     
@@ -64,7 +64,7 @@ class Semester extends React.Component{
 
       if( item.startDate<this.state.currentDate &&  item.courseType=="SS"){
   return(
-<ShowcaseCardDemo key={item._id} name={item.courseName}  date={item.startDate} image={item.image} url={item.url} onClick={this.Click} />
+<ShowcaseCardDemo key={item._id} name={item.courseName} edate={item.endDate} date={item.startDate} image={item.image} url={item.url} onClick={this.Click} />
   )
                
                     

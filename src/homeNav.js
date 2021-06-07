@@ -11,7 +11,6 @@ import './App.css';
 import Button from '@material-ui/core/Button';
 import MailIcon from '@material-ui/icons/Mail';
 
-
 const useStyles = makeStyles((theme) => ({
   root: {
     display: 'flex',
@@ -54,6 +53,7 @@ function HomeNav(props){
         </Navbar.Collapse>&emsp;
         {/* <FaRegUserCircle size="2em"/> */}
         {/* <Avatar alt="Divya" src="https://cdn.pixabay.com/photo/2018/06/16/15/36/water-lily-3478924__340.jpg"/>&emsp;&emsp; */}
+
 
         <Link href="#"  color="inherit">
         <ExitToAppIcon style={{fontSize:40,color:"white"}}></ExitToAppIcon>

@@ -61,7 +61,8 @@ const programdata=[
 		"endDate":"2021-6-30",
 		"courseType":"IT",
 		"semester":"3",
-		"image":"https://novel-soft.com/upload/image/novost_algoritmy_en.png"
+		// "image":"https://novel-soft.com/upload/image/novost_algoritmy_en.png"
+		"image":"https://simplesnippets.tech/wp-content/uploads/2019/04/data-structures-and-algorithms-course-for-beginners1.jpg"
     },
 	{
         "_id": "60a3479e1384743f35e8bcb1",
