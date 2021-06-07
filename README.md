@@ -12,21 +12,21 @@ ReactJs, Postman, Bootstrap.
 
 ## Sprint1:
 Designed a sprint work plan using the Justinmind application and understood the scrum process. Understood the issues in the ILMS and in the project management knowing about the UX design and starting implementing it. Learned Justinmind tool, scrum process.
-<img src="src/images/prototype.png">
+<img src="src/images/sprint1.png">
 
 ## Sprint2:
 Displaying the program page. The mentor should be able to view the program page separated by sections i.e, ongoing and completed. Had difficulty in get JSON data and added dynamically when we click on the card. Learned using Postman for getting API calls.
-<img src="src/images/program.PNG">
+<img src="src/images/sprint2.PNG">
 
 ## Sprint3:
 Designed Course page with 3 sections (Onging, Semister, Upcoming) to differentiate easly by student. Display Course page and Mentor page. It should be able to redirect to the respective course page when I click on them and As a student, he should be able to view the course page directly on login(viz. homepage). Faced difficulty in the API’s calls and nodeJs versions are not matching for Nglms and React(i-LMS), Heroku was not working completely. Learned using Json for getting course data.
 
 ## Sprint4:
 Designed cards UI to display name, picture, Timeline and devoloped the visually. Displaying ongoing courses and divided the courses semester-wise. Display Ongoing courses on the top of the page to access them easily, should be able to see the courses semester-wise along with time duration next to Ongoing Courses and view IT and Soft Skills separated by different color code. Faced difficulty with adding the presentation card as a full-screen card, implementing dynamic cards based on the no. of weeks that course contains. Learned Using Json for getting course data. 
-<img src="src/images/sprint5.PNG">
+<img src="src/images/sprint4.PNG">
 ## Sprint5:
 
-
+<img src="src/images/sprint4.PNG">
 
 ## Sprint6:
 
