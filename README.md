@@ -26,7 +26,7 @@ Designed cards UI to display name, picture, Timeline and devoloped the visually.
 <img src="src/images/sprint4.PNG">
 ## Sprint5:
 
-<img src="src/images/sprint4.PNG">
+<img src="src/images/sprint5.PNG">
 
 ## Sprint6:
 
