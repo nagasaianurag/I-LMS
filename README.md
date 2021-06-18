@@ -33,6 +33,12 @@ Designed cards UI to display name, picture, Timeline and devoloped the visually.
 
 ## Sprint6:
 
+<img src="src/images/sprint6.PNG">
+
+## Sprint7:
+
+<img src="src/images/sprint7.PNG">
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
