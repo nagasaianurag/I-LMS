@@ -15,7 +15,7 @@ Packages: Material UI, Font awesome, React Icons, Cimpress, Mui-treasury
 
 ## Sprint1:
 Designed a sprint work plan using the Justinmind application and understood the scrum process. Understood the issues in the ILMS and in the project management knowing about the UX design and starting implementing it. Learned Justinmind tool, scrum process.
-<img src="src/images/sprint1.png">
+<img src="programmanagment/src/images/sprint1.png">
 
 ## Sprint2:
 Displaying the program page. The mentor should be able to view the program page separated by sections i.e, ongoing and completed. Had difficulty in get JSON data and added dynamically when we click on the card. Learned using Postman for getting API calls.
