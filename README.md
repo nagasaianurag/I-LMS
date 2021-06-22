@@ -10,7 +10,7 @@ Users are able to see the course description on page load, able to see the lates
 ## Technologies used:
 Postman for API calls, Justinmind for design prototype, React-JS, Bootstrap, JSX, CSS3, HTML.
 
-Packages: Material UI, font awesome, React Icons, cimpress, mui-treasury
+Packages: Material UI, Font awesome, React Icons, Cimpress, Mui-treasury
 
 
 ## Sprint1:
