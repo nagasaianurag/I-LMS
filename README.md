@@ -42,6 +42,7 @@ Designed cards UI to display name, picture, Timeline and devoloped the visually.
 
 ## Installations For Project:
 npm install react-bootstrap bootstrap@4.6.0
+
 npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
