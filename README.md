@@ -8,7 +8,7 @@ When a student completes a course it should fade out its color. Also when a stud
 Users are able to see the course description on page load, able to see the latest module on the top(reverse chronological), and able to see the number of weeks on the left side of the page for quick access. 
 
 ## Technologies used:
-Postman for API calls. Justinmind for design prototype. React-JS, Bootstrap, JSX, CSS3, HTML.
+Postman for API calls, Justinmind for design prototype, React-JS, Bootstrap, JSX, CSS3, HTML.
 
 Packages: Material UI, font awesome, React Icons, cimpress, mui-treasury
 
