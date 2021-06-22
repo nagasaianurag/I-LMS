@@ -40,6 +40,24 @@ Designed cards UI to display name, picture, Timeline and devoloped the visually.
 
 <img src="src/images/sprint7.PNG">
 
+## Installations For Project:
+npm install react-bootstrap bootstrap@4.6.0
+npm i --save @fortawesome/fontawesome-svg-core
+npm install --save @fortawesome/free-solid-svg-icons
+npm install --save @fortawesome/react-fontawesome
+npm install react-router-dom
+npm install react-icons --save
+npm install --save reactstrap react react-dom
+npm install @material-ui/core
+npm install @material-ui/icons
+npm install --save vertical-timeline-component-react
+npm install @material-ui/lab
+npm i @mui-treasury/styles
+npm i @mui-treasury/components
+npm i @cimpress/react-components
+npm i react-select
+npm i react-circle
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
