@@ -29,12 +29,12 @@ Designed Course page with 3 sections (Onging, Semister, Upcoming) to differentia
 Designed cards UI to display name, picture, Timeline and devoloped the visually. Displaying ongoing courses and divided the courses semester-wise. Display Ongoing courses on the top of the page to access them easily, should be able to see the courses semester-wise along with time duration next to Ongoing Courses and view IT and Soft Skills separated by different color code. Faced difficulty with adding the presentation card as a full-screen card, implementing dynamic cards based on the no. of weeks that course contains. Learned Using Json for getting course data. 
 <img src="src/images/sprint4.PNG">
 ## Sprint5:
-The Displays The Upcoming And Ongoing Courses In Random Colors. All The Completed Courses Are Faded Out. A New UI Is Added In The Dropdown Button.
+Differentiate the opening and complete the course by a fade of the course card. Upcoming courses should be at the bottom of the page with different color coding and the card color should fade out after course completion. The difficulty faced in the fadeout color is overlapping with the text on the card.
 
 <img src="src/images/sprint5.PNG">
 
 ## Sprint6:
-Created A Json File With Student Details And Called Those Details Dynamically Onto The Webpage By Merging Two Jsons.Fixed Some UI Changes Like Dropdown And Added Responsive Webpages.
+Displaying the status of the student on each course card. When the user hovers on any course card, it should display details like Course status, percentage, and grade. Also when the user clicks on the start course button it should be redirected to the respective course module page. Difficulty faced in the responsiveness of the page in different views.
 
 <img src="src/images/sprint6.PNG">
 
